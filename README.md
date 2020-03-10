@@ -2,7 +2,6 @@
 
 helllloooo ppl!
 
-Starting off to learn how this works
 I am a bachelors student interested in web development and machine learning and looking forward to create and upload projects on github.
 .
 .
